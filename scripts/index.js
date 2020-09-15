@@ -49,7 +49,7 @@ operationButtonNode.forEach(function(button){
         })
 
 
- })
+})
 
 
 const clearButton = document.getElementById('clear')
@@ -154,6 +154,6 @@ equalButton.addEventListener('click',function(e){
     }
     console.log(inputArr)
     //inputArr = [operationArr]
- 
+
     calcScreen.value = operationArr
 });

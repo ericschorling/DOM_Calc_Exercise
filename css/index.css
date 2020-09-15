@@ -99,7 +99,7 @@ button:hover {
 }
 .mReset {
     grid-row-start: 1;
-    grid-column-start: 5c;
+    grid-column-start: 5;
     border: 1px solid #c4c4c4;
     background-color: goldenrod;
     color: black
